@@ -1,4 +1,4 @@
-# Candy Machine V2 Frontend
+# Candy Machine V2 Frontend for DEFACE SOL
 
 This is a barebones implementation of Candy Machine V2 frontend, intended for users who want to quickly get started selling Solana NFT's. Some code has been ported from the Fair Launch Protocol frontend in the Metaplex repo. This has been tested with Candy Machine programs on both devnet and mainnet-beta.
 
